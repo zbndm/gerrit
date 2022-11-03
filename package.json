@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "ssh2": "latest"
+  }
+}
