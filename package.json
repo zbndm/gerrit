@@ -4,6 +4,7 @@
     "test": ""
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "ssh2": "latest"
   }
 }
